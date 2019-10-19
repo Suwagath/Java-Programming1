@@ -7,5 +7,6 @@ public class flora{
         buckyObject.setTime(13,27,6);
         System.out.println(buckyObject.toMilitarry());
         System.out.println(buckyObject.toString());
+
     }
 }
